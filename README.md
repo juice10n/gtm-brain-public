@@ -6,7 +6,7 @@ A portable, evidence-backed methodology for building B2B commercial engines.
 
 ## What This Is
 
-This is not a framework written on a whiteboard or borrowed from a book. It was built from real operating experience, codified into a system, and pressure-tested against published practitioner frameworks.
+This is not a framework written on a whiteboard or borrowed from a book. It was built from real operating experience, codified through systematic pattern analysis of my own customer calls, decks, and deal work, and pressure-tested against published practitioner frameworks.
 
 The methodology is organized into 10 tenets that form a system, not a checklist. They're interconnected: a weak ICP poisons positioning, messaging, outbound, and pipeline quality. A missing sales process breaks everything downstream. The tenets are the thinking. The tools and playbooks in this repo are the execution.
 
