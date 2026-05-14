@@ -67,8 +67,6 @@ The brain isn't theoretical. Recent live applications:
 
 - **Pricing factors and buyer prioritization in AI inference. AI inference platform, Series B.** Surfaced two findings from live founder conversations and pre-engagement analysis. First, predictability (not cost savings) is the primary driver pulling consumption customers toward committed contracts - variable bills break budgeting before they break P&L. Second, security posture is a harder enterprise differentiator than price in inference categories - OpenRouter and similar multi-provider routers can't clear enterprise security review, which creates a positioning wedge that pricing alone doesn't. Both fed back into the PLG-to-Enterprise playbook.
 
-Every application sharpens the system. Playbooks update when reality contradicts them.
-
 ## Currently
 
 Exploring commercial leader roles at AI-native companies, late-seed through Series A. If you're a founder ready to build the commercial engine around what's working - or one already in motion and trying to figure out what's not - reach out.
