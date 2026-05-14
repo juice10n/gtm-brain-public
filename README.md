@@ -6,7 +6,7 @@ A Claude skill that takes 15 years of GTM work and runs it as a live operating s
 
 This is how I think when I'm the commercial leader brought in to take what's working - founder-led sales, a small AE group closing deals - and build the operational engine around it. The moment between "we're closing deals" and "we have a scalable engine."
 
-10 tenets that form a system, not a checklist. Operational tools. End-to-end playbooks. Reference cases from real companies. Built from execution across 6 companies and 10+ early-stage consulting engagements, sharpened every time it gets applied to a new one.
+10 tenets that form a system, not a checklist. Operational tools. End-to-end playbooks. Reference cases from real companies. Built from execution across 6 companies and 10+ early-stage consulting engagements, and designed to evolve with each new company. 
 
 The tenets are the thinking. The tools and playbooks are the execution.
 
