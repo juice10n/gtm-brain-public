@@ -18,25 +18,35 @@ I've made a career out of building the commercial engine at companies that don't
 
 ## The 10 Tenets
 
-**1. ICP & Market Segmentation:** Who should you be selling to, and in what order? Use case first, firmographics second. A company can match every filter on paper and still be a terrible customer if there's no recurring workflow behind the purchase.
+**1. ICP & Market Segmentation:** 
+Who should you be selling to, and in what order? Use case first, firmographics second. A company can match every filter on paper and still be a terrible customer if there's no recurring workflow behind the purchase.
 
-**2. Value Proposition & Positioning:** Why anything, why you, why now? Not your feature list. The specific outcome you deliver for a specific buyer in a specific context. Category creation beats competitive positioning every time.
+**2. Value Proposition & Positioning:** 
+Why anything, why you, why now? Not your feature list. The specific outcome you deliver for a specific buyer in a specific context. Category creation beats competitive positioning every time.
 
-**3. Buyer Journey & Sales Motion:** How do buyers actually make decisions, and where does your process break from theirs? The buyer journey and the sales process are different things. Conflating them is the most common reason deals stall.
+**3. Buyer Journey & Sales Motion:** 
+How do buyers actually make decisions, and where does your process break from theirs? The buyer journey and the sales process are different things. Conflating them is the most common reason deals stall.
 
-**4. Discovery & Qualification:** How do you separate real opportunities from noise? A five-step sequence where the order matters. Workflow first, budget last. When discovery feels incomplete, the sequence itself tells you which step was skipped.
+**4. Discovery & Qualification:** 
+How do you separate real opportunities from noise? A five-step sequence where the order matters. Workflow first, budget last. When discovery feels incomplete, the sequence itself tells you which step was skipped.
 
-**5. Messaging by Persona:** How do you say the same thing differently to each person in the buying committee? Practitioner hears workflow impact, VP hears team efficiency, CFO hears cost displacement. Same product, different emphasis.
+**5. Messaging by Persona:** 
+How do you say the same thing differently to each person in the buying committee? Practitioner hears workflow impact, VP hears team efficiency, CFO hears cost displacement. Same product, different emphasis.
 
-**6. Outbound & Demand Gen:** How does pipeline get created? Three complementary layers: outbound is precision, inbound is signal, marketing is the amplifier. Most GTM leaders treat these as substitutes. They're multipliers.
+**6. Outbound & Demand Gen:** 
+How does pipeline get created? Three complementary layers: outbound is precision, inbound is signal, marketing is the amplifier. Most GTM leaders treat these as substitutes. They're multipliers.
 
-**7. Sales Process & Playbook:** What has to be true before a deal moves forward? Stage progression should be driven by buyer behavior, not seller activity. When deals advance because the rep checked a box instead of because the buyer took action, the pipeline becomes fiction.
+**7. Sales Process & Playbook:** 
+What has to be true before a deal moves forward? Stage progression should be driven by buyer behavior, not seller activity. When deals advance because the rep checked a box instead of because the buyer took action, the pipeline becomes fiction.
 
-**8. Pricing & Packaging:** How do you price with confidence? Anchor against the cost of the buyer's current alternative, not competitors. Category creation protects this: no direct benchmark means value-based pricing without commodity pressure.
+**8. Pricing & Packaging:** 
+How do you price with confidence? Anchor against the cost of the buyer's current alternative, not competitors. Category creation protects this: no direct benchmark means value-based pricing without commodity pressure.
 
-**9. Metrics & Pipeline Hygiene:** How do you know if the engine is working? Metrics are diagnostic, not performative. A dropping win rate doesn't tell you to "improve the win rate." It tells you to look upstream at qualification, positioning, or the buyer journey.
+**9. Metrics & Pipeline Hygiene:** 
+How do you know if the engine is working? Metrics are diagnostic, not performative. A dropping win rate doesn't tell you to "improve the win rate." It tells you to look upstream at qualification, positioning, or the buyer journey.
 
-**10. Enablement & Onboarding:** How do you replicate what works? Coaching and enablement are different disciplines. Coaching without enablement doesn't scale. Enablement without coaching doesn't stick. The team ends up with knowledge they can't apply and instincts they can't explain.
+**10. Enablement & Onboarding:** 
+How do you replicate what works? Coaching and enablement are different disciplines. Coaching without enablement doesn't scale. Enablement without coaching doesn't stick. The team ends up with knowledge they can't apply and instincts they can't explain.
 
 ## Featured Playbook: PLG-to-Enterprise Conversion
 
