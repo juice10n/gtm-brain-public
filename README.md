@@ -2,6 +2,8 @@
 
 A Claude skill that takes 15 years of GTM work and runs it as a live operating system - 10 interconnected tenets, tools, playbooks, and reference cases that get sharper every company they touch.
 
+*This is the public-facing subset. The full GTM Brain is a private Claude skill with deeper artifacts, live company applications, and the full playbook library - the version that would be used in live engagements.*
+
 ## What This Is
 
 This is how I think when I'm the commercial leader brought in to take what's working - founder-led sales, a small AE group closing deals - and build the operational engine around it. The moment between "we're closing deals" and "we have a scalable engine."
