@@ -19,6 +19,7 @@ I've made a career out of building the commercial engine at companies that don't
 ## The 10 Tenets
 
 **1. ICP & Market Segmentation:** 
+
 Who should you be selling to, and in what order? Use case first, firmographics second. A company can match every filter on paper and still be a terrible customer if there's no recurring workflow behind the purchase.
 
 **2. Value Proposition & Positioning:** 
