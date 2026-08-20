@@ -91,6 +91,6 @@ The brain isn't theoretical. Recent live applications:
 
 ## Currently
 
-Exploring commercial leader roles at AI-native companies, late-seed through Series A. If you're a founder ready to build the commercial engine around what's working - or one already in motion and trying to figure out what's not - reach out.
+Exploring commercial leader roles at AI-native startups. If you're a founder ready to build the commercial engine around what's working - or one already in motion and trying to figure out what's not - reach out.
 
 [linkedin.com/in/justinnychay](https://linkedin.com/in/justinnychay)
